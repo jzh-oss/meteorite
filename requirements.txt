@@ -13,7 +13,6 @@ attrs==25.3.0
 autobahn==23.1.2
 Automat==24.8.1
 blinker==1.8.2
-bondpy==1.8.5
 cachetools==5.5.2
 catkin==0.7.29
 catkin-pkg==1.0.0
