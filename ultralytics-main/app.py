@@ -8,7 +8,7 @@ from ultralytics import YOLO
 
 @st.cache_resource
 def load_model():
-    model = YOLO("/root/jzh/demo_2/ultralytics-main/runs/classify/train14/weights/best.pt")
+    model = YOLO("./runs/classify/train14/weights/best.pt")
     return model
 
 def preprocess_image(image):
