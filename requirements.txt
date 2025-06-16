@@ -14,9 +14,6 @@ autobahn==23.1.2
 Automat==24.8.1
 blinker==1.8.2
 cachetools==5.5.2
-catkin==0.7.29
-catkin-pkg==1.0.0
-catkin-tools==0.9.5
 certifi==2025.1.31
 cffi==1.17.1
 charset-normalizer==3.4.1
