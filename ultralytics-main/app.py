@@ -4,7 +4,7 @@ from PIL import Image
 from torchvision import transforms
 import torch.nn.functional as F 
 
-from .ultralytics import YOLO
+from ultralytics import YOLO
 
 @st.cache_resource
 def load_model():
